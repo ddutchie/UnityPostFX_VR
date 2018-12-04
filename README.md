@@ -2,4 +2,4 @@
 Post Effects experiments for Unity - Compatible with SPS VR
 
 
-First Up. Comic Book Shader
+First Up. Graphic Novel Shader
